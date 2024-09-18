@@ -74,6 +74,7 @@
   <ItemGroup>
     <None Include="Assets/Platformer_8_Underworld/Shaders/URP_Shaders/MainURP.shader" />
     <None Include="Assets/Platformer_8_Underworld/Shaders/URP_Shaders/Glow_URP.shader" />
+    <None Include="Assets/WizardPolyArt/Shader/PolyArtMaskTint.shader" />
     <None Include="Assets/Platformer_8_Underworld/Shaders/BuiltIn_Shaders/Water.shader" />
     <None Include="Assets/Platformer_8_Underworld/Shaders/BuiltIn_Shaders/SimpleWater.shader" />
     <None Include="Assets/Platformer_8_Underworld/Shaders/URP_Shaders/WaterURP.shader" />
@@ -81,6 +82,7 @@
     <None Include="Assets/Platformer_8_Underworld/Shaders/BuiltIn_Shaders/Glass.shader" />
     <None Include="Assets/Platformer_8_Underworld/Shaders/BuiltIn_Shaders/Glow.shader" />
     <None Include="Assets/Platformer_8_Underworld/Shaders/BuiltIn_Shaders/Main.shader" />
+    <None Include="Assets/WizardPolyArt/SRP/HowToTestSRPs.txt" />
     <None Include="Assets/Platformer_8_Underworld/URP_Extract_Me/Documentation.txt" />
     <None Include="Assets/Platformer_8_Underworld/Shaders/URP_Shaders/SimpleWater_URP.shader" />
   </ItemGroup>
