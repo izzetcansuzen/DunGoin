@@ -359,6 +359,7 @@
 "Assets/Platformer_8_Underworld/Scripts/OscillateScale.cs"
 "Assets/Platformer_8_Underworld/Scripts/Rnd_Animation.cs"
 "Assets/Platformer_8_Underworld/Scripts/RotationScript.cs"
+"Assets/Scripts/MoveCharacter.cs"
 -langversion:9.0
 /deterministic
 /optimize+

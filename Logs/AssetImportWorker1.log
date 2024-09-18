@@ -688,3 +688,1037 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 9983.520096 seconds.
+  path: Assets/WizardPolyArt/Prefabs/PolyArtWizardStandardMat.prefab
+  artifactKey: Guid(ccd8c3b89aa02e943a08ab9238a8a70c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Prefabs/PolyArtWizardStandardMat.prefab using Guid(ccd8c3b89aa02e943a08ab9238a8a70c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8a849987f1ea90324d230743ddf4090') in 0.160000 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 269
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/WizardPolyArt/Prefabs/Staff02Polyart.prefab
+  artifactKey: Guid(e55280988a6fa1843a32025141146c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Prefabs/Staff02Polyart.prefab using Guid(e55280988a6fa1843a32025141146c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a1dcdf19fbc4377108f2b7fd0d98a60') in 0.011312 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/WizardPolyArt/Prefabs/Staff03PolyArt.prefab
+  artifactKey: Guid(c413fed5af1bfe847af0ed883ee868db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Prefabs/Staff03PolyArt.prefab using Guid(c413fed5af1bfe847af0ed883ee868db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd27b11617027191f9b430a804122112') in 0.008479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/WizardPolyArt/Prefabs/Staff01PolyArt.prefab
+  artifactKey: Guid(713f90f70ef14794bbdcabcb038f4ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Prefabs/Staff01PolyArt.prefab using Guid(713f90f70ef14794bbdcabcb038f4ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '568868728141fd2c84e7d553814c8062') in 0.008880 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 14.992646 seconds.
+  path: Assets/WizardPolyArt/Materials/PolyArtMaskTint 1.mat
+  artifactKey: Guid(bc69fc6ad5b6c7645aa0c00ecda79767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Materials/PolyArtMaskTint 1.mat using Guid(bc69fc6ad5b6c7645aa0c00ecda79767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '672fa7b0752a117d84caaf820880f625') in 0.388454 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/WizardPolyArt/Materials/Skybox_Mat.mat
+  artifactKey: Guid(876adbb903b878f42bc10fc9ae36b9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Materials/Skybox_Mat.mat using Guid(876adbb903b878f42bc10fc9ae36b9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '831584b0ab35818ab0aa25a951486014') in 0.131379 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.253454 seconds.
+  path: Assets/WizardPolyArt/Animations/Attack02Maintain.fbx
+  artifactKey: Guid(772ab72bc9a5db54bbf0865469eecc37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Animations/Attack02Maintain.fbx using Guid(772ab72bc9a5db54bbf0865469eecc37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dcd35385b470d22fdbb6401e028b69a') in 0.026091 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/WizardPolyArt/Animations/JumpUp.fbx
+  artifactKey: Guid(d84eaa1354c31fa49a71e96cc487d56f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Animations/JumpUp.fbx using Guid(d84eaa1354c31fa49a71e96cc487d56f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce531b77699d0bbdce2147431a9e98da') in 0.019474 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/WizardPolyArt/Animations/DefendMaintain.fbx
+  artifactKey: Guid(c4b5c0e66f5602c4d9d0a70261bca170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Animations/DefendMaintain.fbx using Guid(c4b5c0e66f5602c4d9d0a70261bca170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0167c5d59a534885094228a88735f4bf') in 0.013224 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/WizardPolyArt/Animations/JumpAirAttack.fbx
+  artifactKey: Guid(0ea920bff0bc70345a1ac988ac997e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Animations/JumpAirAttack.fbx using Guid(0ea920bff0bc70345a1ac988ac997e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fede46b345f7f4c34035fd652349cd22') in 0.018423 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/WizardPolyArt/Animations/BattleWalkBack.fbx
+  artifactKey: Guid(61d53a1bd108efb4a8f50f729e2b15bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Animations/BattleWalkBack.fbx using Guid(61d53a1bd108efb4a8f50f729e2b15bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f550aba11e10833a0b1dd6d461bfa2f') in 0.014264 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/WizardPolyArt/Animations/Idle01.fbx
+  artifactKey: Guid(c24d7c58cefa37a4a84ebd75f98bcfc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Animations/Idle01.fbx using Guid(c24d7c58cefa37a4a84ebd75f98bcfc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb26eaefe5dd2e4a9fe8463ad1412275') in 0.020032 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/WizardPolyArt/Animations/JumpEnd.fbx
+  artifactKey: Guid(a89727a6c7e9e224f9079feba5ba3ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Animations/JumpEnd.fbx using Guid(a89727a6c7e9e224f9079feba5ba3ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe8c90b7080c39cdf9d2410aa3d703b1') in 0.014394 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/WizardPolyArt/Animations/JumpUpAttack.fbx
+  artifactKey: Guid(00ac993e870df7c4b9425dfb0e4dcce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Animations/JumpUpAttack.fbx using Guid(00ac993e870df7c4b9425dfb0e4dcce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '193b0007d9e7b5d9152b4e51060e3c4b') in 0.021970 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/WizardPolyArt/Animations/BattleWalkRight.fbx
+  artifactKey: Guid(034514e1d437a2d4dade1cdf55367352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Animations/BattleWalkRight.fbx using Guid(034514e1d437a2d4dade1cdf55367352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d7d1e5cf0069dee617eee231c2c676') in 0.020719 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/WizardPolyArt/Animations/DieRecovery.fbx
+  artifactKey: Guid(6cece5862609d2446a5ba4c9cc2d8b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Animations/DieRecovery.fbx using Guid(6cece5862609d2446a5ba4c9cc2d8b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31f1610e0a694234e3a7683b08552c59') in 0.024288 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/WizardPolyArt/Animations/JumpStart.fbx
+  artifactKey: Guid(5a98a2bd7109a9049b48458fe460aefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Animations/JumpStart.fbx using Guid(5a98a2bd7109a9049b48458fe460aefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da2754406a5b8847f618a2dc6a1077e5') in 0.023177 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/WizardPolyArt/Animations/BattleWalkLeft.fbx
+  artifactKey: Guid(cb2d7c8eb8d682d4db58ae9673579e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Animations/BattleWalkLeft.fbx using Guid(cb2d7c8eb8d682d4db58ae9673579e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2379c8da95579bbf1b556ff87a076564') in 0.014083 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/WizardPolyArt/Animations/Die.fbx
+  artifactKey: Guid(48511f3269ab33140ad32d856584c98a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Animations/Die.fbx using Guid(48511f3269ab33140ad32d856584c98a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9692706c4e7c9300a1cf03f40bbf7224') in 0.018228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/WizardPolyArt/Animations/Idle03.fbx
+  artifactKey: Guid(cb4c96787ba07184d9956f64f02cee49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Animations/Idle03.fbx using Guid(cb4c96787ba07184d9956f64f02cee49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50f8a1e1f5ac0630605eb9f996627194') in 0.013843 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/WizardPolyArt/Animations/PotionDrink.fbx
+  artifactKey: Guid(e5325ecccbec8e94f957227cd2b72fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Animations/PotionDrink.fbx using Guid(e5325ecccbec8e94f957227cd2b72fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269e391c8f03a932b12e295561e1672b') in 0.020023 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/WizardPolyArt/Animations/Dizzy.fbx
+  artifactKey: Guid(7d2e0a865aa3eca4a9fa04b999ad8f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Animations/Dizzy.fbx using Guid(7d2e0a865aa3eca4a9fa04b999ad8f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9969e687bb583b6160f4c41b9f01fe') in 0.015612 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x313297000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.346 seconds
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.758 seconds
+Domain Reload Profiling: 1105ms
+	BeginReloadAssembly (104ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (41ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (14ms)
+	LoadAllAssembliesAndSetupDomain (195ms)
+		LoadAssemblies (214ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (18ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (758ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (300ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (36ms)
+			ProcessInitializeOnLoadAttributes (230ms)
+			ProcessInitializeOnLoadMethodAttributes (12ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3640.
+Memory consumption went from 175.1 MB to 173.5 MB.
+Total: 3.056167 ms (FindLiveObjects: 0.143750 ms CreateObjectMapping: 0.115375 ms MarkObjects: 2.437125 ms  DeleteObjects: 0.359500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x313297000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.433 seconds
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.796 seconds
+Domain Reload Profiling: 1229ms
+	BeginReloadAssembly (173ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (58ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (15ms)
+	LoadAllAssembliesAndSetupDomain (203ms)
+		LoadAssemblies (224ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (24ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (7ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (796ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (330ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (37ms)
+			ProcessInitializeOnLoadAttributes (254ms)
+			ProcessInitializeOnLoadMethodAttributes (11ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3644.
+Memory consumption went from 180.5 MB to 178.9 MB.
+Total: 3.070083 ms (FindLiveObjects: 0.145500 ms CreateObjectMapping: 0.066000 ms MarkObjects: 2.405875 ms  DeleteObjects: 0.451917 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x313297000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.507 seconds
+Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.889 seconds
+Domain Reload Profiling: 1397ms
+	BeginReloadAssembly (158ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (67ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (57ms)
+	LoadAllAssembliesAndSetupDomain (249ms)
+		LoadAssemblies (278ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (30ms)
+			TypeCache.Refresh (17ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (7ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (890ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (381ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (56ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (39ms)
+			ProcessInitializeOnLoadAttributes (269ms)
+			ProcessInitializeOnLoadMethodAttributes (13ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3647.
+Memory consumption went from 186.1 MB to 184.4 MB.
+Total: 4.194125 ms (FindLiveObjects: 0.152750 ms CreateObjectMapping: 0.060041 ms MarkObjects: 3.475542 ms  DeleteObjects: 0.505250 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x313297000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.338 seconds
+Refreshing native plugins compatible for Editor in 1.09 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.675 seconds
+Domain Reload Profiling: 1013ms
+	BeginReloadAssembly (120ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (45ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (22ms)
+	LoadAllAssembliesAndSetupDomain (150ms)
+		LoadAssemblies (180ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (17ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (675ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (383ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (44ms)
+			ProcessInitializeOnLoadAttributes (295ms)
+			ProcessInitializeOnLoadMethodAttributes (15ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3650.
+Memory consumption went from 191.7 MB to 190.1 MB.
+Total: 3.198000 ms (FindLiveObjects: 0.149542 ms CreateObjectMapping: 0.062458 ms MarkObjects: 2.619000 ms  DeleteObjects: 0.366500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x313297000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.373 seconds
+Refreshing native plugins compatible for Editor in 0.99 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.835 seconds
+Domain Reload Profiling: 1208ms
+	BeginReloadAssembly (125ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (51ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (189ms)
+		LoadAssemblies (203ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (30ms)
+			TypeCache.Refresh (17ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (6ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (835ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (337ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (41ms)
+			ProcessInitializeOnLoadAttributes (253ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3653.
+Memory consumption went from 197.3 MB to 195.7 MB.
+Total: 3.448292 ms (FindLiveObjects: 0.140666 ms CreateObjectMapping: 0.055875 ms MarkObjects: 2.827125 ms  DeleteObjects: 0.424042 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x313297000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.314 seconds
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.640 seconds
+Domain Reload Profiling: 954ms
+	BeginReloadAssembly (107ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (43ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (16ms)
+	LoadAllAssembliesAndSetupDomain (152ms)
+		LoadAssemblies (176ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (13ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (640ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (378ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (49ms)
+			ProcessInitializeOnLoadAttributes (290ms)
+			ProcessInitializeOnLoadMethodAttributes (16ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3656.
+Memory consumption went from 202.9 MB to 201.3 MB.
+Total: 4.393375 ms (FindLiveObjects: 0.218834 ms CreateObjectMapping: 0.147084 ms MarkObjects: 3.532750 ms  DeleteObjects: 0.494042 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x313297000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.352 seconds
+Refreshing native plugins compatible for Editor in 1.79 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.983 seconds
+Domain Reload Profiling: 1336ms
+	BeginReloadAssembly (122ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (52ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (18ms)
+	LoadAllAssembliesAndSetupDomain (169ms)
+		LoadAssemblies (194ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (17ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (983ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (389ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (22ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (49ms)
+			ProcessInitializeOnLoadAttributes (298ms)
+			ProcessInitializeOnLoadMethodAttributes (15ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3659.
+Memory consumption went from 208.6 MB to 206.9 MB.
+Total: 4.173959 ms (FindLiveObjects: 0.207708 ms CreateObjectMapping: 0.082167 ms MarkObjects: 3.446667 ms  DeleteObjects: 0.437042 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x313297000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.368 seconds
+Refreshing native plugins compatible for Editor in 1.14 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.828 seconds
+Domain Reload Profiling: 1197ms
+	BeginReloadAssembly (120ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (181ms)
+		LoadAssemblies (201ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (23ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (7ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (828ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (348ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (43ms)
+			ProcessInitializeOnLoadAttributes (268ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3662.
+Memory consumption went from 214.2 MB to 212.6 MB.
+Total: 3.365417 ms (FindLiveObjects: 0.149917 ms CreateObjectMapping: 0.060583 ms MarkObjects: 2.704333 ms  DeleteObjects: 0.449916 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x313297000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.404 seconds
+Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.810 seconds
+Domain Reload Profiling: 1215ms
+	BeginReloadAssembly (117ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (42ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (224ms)
+		LoadAssemblies (238ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (33ms)
+			TypeCache.Refresh (21ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (7ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (811ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (364ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (45ms)
+			ProcessInitializeOnLoadAttributes (280ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3665.
+Memory consumption went from 219.8 MB to 218.2 MB.
+Total: 3.701959 ms (FindLiveObjects: 0.155667 ms CreateObjectMapping: 0.062083 ms MarkObjects: 3.054458 ms  DeleteObjects: 0.429125 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x313297000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.318 seconds
+Refreshing native plugins compatible for Editor in 1.07 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.661 seconds
+Domain Reload Profiling: 979ms
+	BeginReloadAssembly (108ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (148ms)
+		LoadAssemblies (171ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (19ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (662ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (404ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (27ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (52ms)
+			ProcessInitializeOnLoadAttributes (305ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3668.
+Memory consumption went from 225.4 MB to 223.8 MB.
+Total: 3.586334 ms (FindLiveObjects: 0.181458 ms CreateObjectMapping: 0.084125 ms MarkObjects: 2.895292 ms  DeleteObjects: 0.424708 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x313297000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.507 seconds
+Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.273 seconds
+Domain Reload Profiling: 1780ms
+	BeginReloadAssembly (174ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (72ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (242ms)
+		LoadAssemblies (274ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (28ms)
+			TypeCache.Refresh (14ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (7ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (1273ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (348ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (41ms)
+			ProcessInitializeOnLoadAttributes (271ms)
+			ProcessInitializeOnLoadMethodAttributes (13ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3671.
+Memory consumption went from 231.1 MB to 229.4 MB.
+Total: 3.087667 ms (FindLiveObjects: 0.138292 ms CreateObjectMapping: 0.055458 ms MarkObjects: 2.494500 ms  DeleteObjects: 0.398833 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
