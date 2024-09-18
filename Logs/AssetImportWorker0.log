@@ -1996,3 +1996,2821 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.380 seconds
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.602 seconds
+Domain Reload Profiling: 983ms
+	BeginReloadAssembly (118ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (220ms)
+		LoadAssemblies (248ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (26ms)
+			TypeCache.Refresh (17ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (4ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (602ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (232ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (28ms)
+			ProcessInitializeOnLoadAttributes (178ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3680.
+Memory consumption went from 253.3 MB to 251.7 MB.
+Total: 2.645709 ms (FindLiveObjects: 0.112709 ms CreateObjectMapping: 0.048834 ms MarkObjects: 2.107458 ms  DeleteObjects: 0.376250 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1567.896139 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '9b71b6e509584efbaee9488c1218c731') in 0.070790 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/column_001.fbx
+  artifactKey: Guid(b8d80133f733bdd4aa49b9e0608b7998) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/column_001.fbx using Guid(b8d80133f733bdd4aa49b9e0608b7998) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '7962d5a9a642dac3d2651d0c7d96aa07') in 0.048946 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/WizardPolyArt/Materials/PolyArtMaskTint.mat
+  artifactKey: Guid(aa2697fc5c62ddc469c79075db26cab4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Materials/PolyArtMaskTint.mat using Guid(aa2697fc5c62ddc469c79075db26cab4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'b33822754f3ffb2b4d1ac09b170f46d4') in 0.010097 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/WizardPolyArt/Animations/JumpAirAttack.fbx
+  artifactKey: Guid(0ea920bff0bc70345a1ac988ac997e73) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Animations/JumpAirAttack.fbx using Guid(0ea920bff0bc70345a1ac988ac997e73) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'befcf48d08e48d16e28eb9d3a4c3726a') in 0.020734 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/chest_lid_001.fbx
+  artifactKey: Guid(a3bba677fd727844c859ad56f930aca5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/chest_lid_001.fbx using Guid(a3bba677fd727844c859ad56f930aca5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '626f2145f6cc5f33151a865a45bbc895') in 0.006357 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/WizardPolyArt/Animations/Attack02Start.fbx
+  artifactKey: Guid(7fdb60c8dc5c5ed429ede0d591bce079) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Animations/Attack02Start.fbx using Guid(7fdb60c8dc5c5ed429ede0d591bce079) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '15b927e78c1bdc8641d74f2788a12895') in 0.014693 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/WizardPolyArt/Animations/WalkForward.fbx
+  artifactKey: Guid(8254954c6c0cf98469be07a2c0a87db8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Animations/WalkForward.fbx using Guid(8254954c6c0cf98469be07a2c0a87db8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '829071de0ca0611ccec23fea29f834f9') in 0.012826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/WizardPolyArt/Animations/JumpEnd.fbx
+  artifactKey: Guid(a89727a6c7e9e224f9079feba5ba3ace) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Animations/JumpEnd.fbx using Guid(a89727a6c7e9e224f9079feba5ba3ace) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'd48f31ede57dfa52646115f35a6dceb4') in 0.012718 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Platformer_8_Underworld/Skyboxes/Skybox_2.mat
+  artifactKey: Guid(0c90d666a61c65948a23cbb9e42a5eb6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Skyboxes/Skybox_2.mat using Guid(0c90d666a61c65948a23cbb9e42a5eb6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '69943fac3f77cd609339cf47cd37c44f') in 0.033656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/WizardPolyArt/Animations/Die.fbx
+  artifactKey: Guid(48511f3269ab33140ad32d856584c98a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Animations/Die.fbx using Guid(48511f3269ab33140ad32d856584c98a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'b204ab89f8fc1e1850b23a156ed007c7') in 0.016862 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/WizardPolyArt/Animations/DieRecovery.fbx
+  artifactKey: Guid(6cece5862609d2446a5ba4c9cc2d8b08) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Animations/DieRecovery.fbx using Guid(6cece5862609d2446a5ba4c9cc2d8b08) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'd06e02375895d4b3e5a15a1e4bfdfc41') in 0.013614 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/WizardPolyArt/Animations/Attack03Maintain.fbx
+  artifactKey: Guid(84360086255e9b24eb56fb310a84754e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Animations/Attack03Maintain.fbx using Guid(84360086255e9b24eb56fb310a84754e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '4e53fdf522db3655acb40dafdee27c82') in 0.012795 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_003.fbx
+  artifactKey: Guid(ef80de4efcc795449bb7aecc5d974c3d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_003.fbx using Guid(ef80de4efcc795449bb7aecc5d974c3d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '8d8f1e9df2948e8ec9a6a1925390d35c') in 0.006516 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_005.fbx
+  artifactKey: Guid(9ee191bff68a15e4db1f529ae889be58) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_005.fbx using Guid(9ee191bff68a15e4db1f529ae889be58) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '199c520dfa9d0b487df7591606bf8512') in 0.006462 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/WizardPolyArt/Materials/PolyArtMaskTint 1.mat
+  artifactKey: Guid(bc69fc6ad5b6c7645aa0c00ecda79767) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Materials/PolyArtMaskTint 1.mat using Guid(bc69fc6ad5b6c7645aa0c00ecda79767) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '17e108619a3a3e8e23c296c529a6b9a3') in 0.004302 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/WizardPolyArt/SRP/URP_PA.zip
+  artifactKey: Guid(8e8e20a9800450841ae366e270ac798c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/SRP/URP_PA.zip using Guid(8e8e20a9800450841ae366e270ac798c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '463e20ef728f6f85dfd4b930e350fe2c') in 0.001319 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Platformer_8_Underworld/Scripts/BlendShapeAnimator.cs
+  artifactKey: Guid(da806d1e304a3f844bb58405103addb6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Scripts/BlendShapeAnimator.cs using Guid(da806d1e304a3f844bb58405103addb6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '9961f958ccfc2dd0e09c864a38d7bba5') in 0.001973 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/WizardPolyArt/Animations/Attack01.fbx
+  artifactKey: Guid(3f2f5660b185f02479d526fb256acbe4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Animations/Attack01.fbx using Guid(3f2f5660b185f02479d526fb256acbe4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '97e68de97a4a58720b341965d44dd6b8') in 0.013166 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/arch_001.fbx
+  artifactKey: Guid(502f0d2136c954b49bc926caf3f99f4a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/arch_001.fbx using Guid(502f0d2136c954b49bc926caf3f99f4a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '0ae8a6fa6cecfe9f727286b65f8d1891') in 0.007228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/chain_001.fbx
+  artifactKey: Guid(28d564fc30f4e51408f33518a9d9cf5b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/chain_001.fbx using Guid(28d564fc30f4e51408f33518a9d9cf5b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '948b31059afa9a80712c4619efacc5d4') in 0.006406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/fire_001.fbx
+  artifactKey: Guid(8f3ce7ed193236443b25654c1b593860) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/fire_001.fbx using Guid(8f3ce7ed193236443b25654c1b593860) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '1e6a31636cad777da919130faf017a4d') in 0.006294 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/WizardPolyArt/Prefabs/Staff02Polyart.prefab
+  artifactKey: Guid(e55280988a6fa1843a32025141146c2a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Prefabs/Staff02Polyart.prefab using Guid(e55280988a6fa1843a32025141146c2a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '098ffd66dd15e4e74a7768fb79306a3a') in 0.004018 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/WizardPolyArt/Mesh/PolyArtWizardMesh.fbx
+  artifactKey: Guid(bed7a092d53e7c748bd65db98cebf9d6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Mesh/PolyArtWizardMesh.fbx using Guid(bed7a092d53e7c748bd65db98cebf9d6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '8981d21532e81a0f13a801863ec58735') in 0.010594 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 142
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/WizardPolyArt/Mesh/Staff01PolyArt.fbx
+  artifactKey: Guid(199d5221dad59a74aa0d8d47e83e6e03) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Mesh/Staff01PolyArt.fbx using Guid(199d5221dad59a74aa0d8d47e83e6e03) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'f43eea6d86adfdd7a44c5137971070ed') in 0.006124 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Platformer_8_Underworld/Scripts/RotationScript.cs
+  artifactKey: Guid(7143f34cb2088484fb4a001a5268ed2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Scripts/RotationScript.cs using Guid(7143f34cb2088484fb4a001a5268ed2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '20180b2af50e9fc3148562f6084541cb') in 0.002653 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/WizardPolyArt/Animations/Attack04.fbx
+  artifactKey: Guid(8692461656b17c84981f4c64c15341fc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Animations/Attack04.fbx using Guid(8692461656b17c84981f4c64c15341fc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '54f4730d5e27700e9718cb99c78645e0') in 0.013386 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/WizardPolyArt/Prefabs/PolyArtWizardMaskTintMat.prefab
+  artifactKey: Guid(dbf7a0c9d76b77a40af3104feac0641d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Prefabs/PolyArtWizardMaskTintMat.prefab using Guid(dbf7a0c9d76b77a40af3104feac0641d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'a9c1b0134e23b0624a15b132c64b7750') in 0.027433 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 267
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/gate_001.fbx
+  artifactKey: Guid(c2a4a874fa09ce243ad3b5e65f585384) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/gate_001.fbx using Guid(c2a4a874fa09ce243ad3b5e65f585384) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '6849e04f4a1eefc82a14ceccf428677f') in 0.007673 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/fire_002.fbx
+  artifactKey: Guid(1aae7084678a04b4080a0f33cb8a8654) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/fire_002.fbx using Guid(1aae7084678a04b4080a0f33cb8a8654) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '2993d9c71cb65ad0f13268c97daa4cb2') in 0.006429 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/WizardPolyArt/Prefabs/Staff03PolyArt.prefab
+  artifactKey: Guid(c413fed5af1bfe847af0ed883ee868db) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Prefabs/Staff03PolyArt.prefab using Guid(c413fed5af1bfe847af0ed883ee868db) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '51f111df3f8d053464b02d2536491659') in 0.005557 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/WizardPolyArt/Materials/Stage.mat
+  artifactKey: Guid(df444e54394320b46be51688da21f95e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Materials/Stage.mat using Guid(df444e54394320b46be51688da21f95e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'f085b29d2cd4f5f6520914e997a68464') in 0.006531 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/WizardPolyArt/Animations/JumpUp.fbx
+  artifactKey: Guid(d84eaa1354c31fa49a71e96cc487d56f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Animations/JumpUp.fbx using Guid(d84eaa1354c31fa49a71e96cc487d56f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'b150a847834c5b80b0821d83f70a53bf') in 0.011775 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Platformer_8_Underworld/Scenes/Demonstration.unity
+  artifactKey: Guid(8779df254185e49a7b9951af7a90df29) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Scenes/Demonstration.unity using Guid(8779df254185e49a7b9951af7a90df29) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '04ff0b5ca8991271af2c10073df45530') in 0.001587 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/WizardPolyArt/SRP/HDRP_PA.zip
+  artifactKey: Guid(918b3b06e15e1f74aab160dfc26f9678) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/SRP/HDRP_PA.zip using Guid(918b3b06e15e1f74aab160dfc26f9678) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '4015b8e3bbbbad0c53a4e0ff499aa96f') in 0.001213 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/WizardPolyArt/Animations/JumpUpAttack.fbx
+  artifactKey: Guid(00ac993e870df7c4b9425dfb0e4dcce7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Animations/JumpUpAttack.fbx using Guid(00ac993e870df7c4b9425dfb0e4dcce7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '01a32697dda1a91ccb8fbb44f2656b3f') in 0.011546 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_006.fbx
+  artifactKey: Guid(0812b06d698e3fa49a830dc44d9bfe5f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_006.fbx using Guid(0812b06d698e3fa49a830dc44d9bfe5f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '38934d8e0787905ccd772a40fbbd2ad5') in 0.007132 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/WizardPolyArt/Animations/Dizzy.fbx
+  artifactKey: Guid(7d2e0a865aa3eca4a9fa04b999ad8f25) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Animations/Dizzy.fbx using Guid(7d2e0a865aa3eca4a9fa04b999ad8f25) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'd36ef5365df43d8f44a8d4acd8dc4750') in 0.011179 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/WizardPolyArt/Animations/VictoryStart.fbx
+  artifactKey: Guid(308b48c15b0fc8d4a83d4703f4dbeb3f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Animations/VictoryStart.fbx using Guid(308b48c15b0fc8d4a83d4703f4dbeb3f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'cfcb39aef9e64cb517228eadb01bfd26') in 0.013025 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 143
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/fence_001.fbx
+  artifactKey: Guid(749292fffd744d54db54be5cc48ffdeb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/fence_001.fbx using Guid(749292fffd744d54db54be5cc48ffdeb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '9582b51d19994e23e509a56f3269275d') in 0.007529 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Platformer_8_Underworld/Materials/Emission.mat
+  artifactKey: Guid(14742cff9c6823344a38125a789b3ad9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Materials/Emission.mat using Guid(14742cff9c6823344a38125a789b3ad9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '0e39ae93d435027760cd9cead105248c') in 0.002869 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_007.fbx
+  artifactKey: Guid(d73e5484d23fccb4cb4826ba1f0b8636) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_007.fbx using Guid(d73e5484d23fccb4cb4826ba1f0b8636) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '7e699dddf3fddc89bf642e0f7ee34076') in 0.009375 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_011.fbx
+  artifactKey: Guid(c63114e39b1314a43857f1378f216528) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_011.fbx using Guid(c63114e39b1314a43857f1378f216528) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '975d2b9db13b7c1a155a4a75fc5a8fb0') in 0.006732 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Environment/pillar_005.fbx
+  artifactKey: Guid(3908fde73323f754f9c15b0d2e964445) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Environment/pillar_005.fbx using Guid(3908fde73323f754f9c15b0d2e964445) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '86c97d01a16c7fc23d81a457a8ae580f') in 0.009833 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/pillar_013.fbx
+  artifactKey: Guid(73c1c7e075c1c4d4db69268c0838ad86) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/pillar_013.fbx using Guid(73c1c7e075c1c4d4db69268c0838ad86) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'c0deb0557ef46f21db84a9a321d0e3a2') in 0.007694 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Props/dynamite_001.fbx
+  artifactKey: Guid(90c83d5b727969549a6480946d348825) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Props/dynamite_001.fbx using Guid(90c83d5b727969549a6480946d348825) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '323f77a6599f01ad32b66f655435c7a0') in 0.006407 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Environment/ruins_road_001.fbx
+  artifactKey: Guid(2440a6f6278a3d740b7253f70a551a6c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Environment/ruins_road_001.fbx using Guid(2440a6f6278a3d740b7253f70a551a6c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '5f9cebc0e7435ca4cd3a6b6dd792f4db') in 0.008095 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Obstacles/obstacle_5_002.fbx
+  artifactKey: Guid(2498eb5be01e8c149853464c78ce2a98) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Obstacles/obstacle_5_002.fbx using Guid(2498eb5be01e8c149853464c78ce2a98) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '82d5e5fcc8b3a1ae4dabb732f36f610e') in 0.006467 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Props/apple_001.fbx
+  artifactKey: Guid(8da5ff3a28096004bba82a21b10b6b1b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Props/apple_001.fbx using Guid(8da5ff3a28096004bba82a21b10b6b1b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e5cb42b3e4ad767f9f6383b0f0ab38e0') in 0.006611 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Props/vase_003.fbx
+  artifactKey: Guid(7d65e88c59b322242b073a8897e3ee05) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Props/vase_003.fbx using Guid(7d65e88c59b322242b073a8897e3ee05) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'c0b846bcc5a67d19cca7e0d8fbb4c2cc') in 0.006490 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/hook_001.fbx
+  artifactKey: Guid(f852bfd864d60bf47af5c5a5c6707729) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/hook_001.fbx using Guid(f852bfd864d60bf47af5c5a5c6707729) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'fc188940a204bf6e784ea492c5f9654b') in 0.006661 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_010.fbx
+  artifactKey: Guid(08a392382bef40448852da3b929f758c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_010.fbx using Guid(08a392382bef40448852da3b929f758c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'a06c4aca1b445f4de7de90edc0daa929') in 0.007809 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/pillar_014.fbx
+  artifactKey: Guid(4fcba961ae08daf4ea59e9c2a18ce393) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/pillar_014.fbx using Guid(4fcba961ae08daf4ea59e9c2a18ce393) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e9fa37386c29e9270d841470bc35afa9') in 0.005910 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Obstacles/obstacle_10_001.fbx
+  artifactKey: Guid(3a4136478ac731443af5527ef8a58df3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Obstacles/obstacle_10_001.fbx using Guid(3a4136478ac731443af5527ef8a58df3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '932afc89b5d8a74139e07f44a98003f9') in 0.006647 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/pillar_006.fbx
+  artifactKey: Guid(25a690ef2abb4c1448bf1d1a45af3f13) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/pillar_006.fbx using Guid(25a690ef2abb4c1448bf1d1a45af3f13) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '58d7179e9ff0a7e5b9c477e16c8238fa') in 0.007046 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Environment/ruins_road_002.fbx
+  artifactKey: Guid(d3ce09ef95066744087c671ef0e8dc47) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Environment/ruins_road_002.fbx using Guid(d3ce09ef95066744087c671ef0e8dc47) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'f5676fb5ad22cf3a1b162efe153d0366') in 0.006713 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_013.fbx
+  artifactKey: Guid(f09ea2900fe0fbc488415e70d07fe0aa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_013.fbx using Guid(f09ea2900fe0fbc488415e70d07fe0aa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '78f946bd781341ee2a91e1bd54fa9524') in 0.006428 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/wall_001.fbx
+  artifactKey: Guid(109abf101d7bcbf44b247e6b8d899f33) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/wall_001.fbx using Guid(109abf101d7bcbf44b247e6b8d899f33) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '475f0e44cabe4a2b5c432ab1e02f636d') in 0.007417 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/ruins_003.fbx
+  artifactKey: Guid(aa3db03fdf8562546997a43c6852a46b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/ruins_003.fbx using Guid(aa3db03fdf8562546997a43c6852a46b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '57a6ab01ac717fa2f30d1f9b7fdc83cc') in 0.006389 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Props/barrel_001.fbx
+  artifactKey: Guid(85ee4d48614321c42aebc1c58bc79668) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Props/barrel_001.fbx using Guid(85ee4d48614321c42aebc1c58bc79668) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'c7130575e46dc7287db3057e399fe4df') in 0.006270 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Environment/pillar_011.fbx
+  artifactKey: Guid(7f2df1d2ca992c44e822a62e72fdacde) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Environment/pillar_011.fbx using Guid(7f2df1d2ca992c44e822a62e72fdacde) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '81606d0394c65d434d264cd522d719ae') in 0.007144 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_008.fbx
+  artifactKey: Guid(f00d40b7d6f13de4994c7e8a37294e18) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_008.fbx using Guid(f00d40b7d6f13de4994c7e8a37294e18) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'a5341a5bb4d149296f6aab16e7215334') in 0.006750 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Props/barrel_002.fbx
+  artifactKey: Guid(44ba676465b2dcd4f9aa0f00386748fa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Props/barrel_002.fbx using Guid(44ba676465b2dcd4f9aa0f00386748fa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'ab9f43c7bcfcb0ce75f8a78b29dd2db4') in 0.006257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_016.fbx
+  artifactKey: Guid(44023e48eb8cbcc4a80dd2b371785650) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_016.fbx using Guid(44023e48eb8cbcc4a80dd2b371785650) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '8bf9b641e4239dec1df3d6718c4a055c') in 0.006986 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Props/star_002.fbx
+  artifactKey: Guid(0fcf59d53badeda4d9b9fb3857a32b3c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Props/star_002.fbx using Guid(0fcf59d53badeda4d9b9fb3857a32b3c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '86880a8198568daef3a2dccc0ff670fb') in 0.007366 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Obstacles/obstacle_11_001.fbx
+  artifactKey: Guid(68fe34f1dcd09504fac2d55cb286fb68) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Obstacles/obstacle_11_001.fbx using Guid(68fe34f1dcd09504fac2d55cb286fb68) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '8b299890ed57dbd6f39022c5fa1ebc33') in 0.006854 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/pillar_003.fbx
+  artifactKey: Guid(9eba9625f3f5ad74aa148ef5acaa5a85) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/pillar_003.fbx using Guid(9eba9625f3f5ad74aa148ef5acaa5a85) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'fc342d96433dbd4ccf68439214370840') in 0.006830 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/pillar_cap_002.fbx
+  artifactKey: Guid(614fc7c0e582a41488aae26f0ea330fc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/pillar_cap_002.fbx using Guid(614fc7c0e582a41488aae26f0ea330fc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'a90135ecd860a7e81631d2f95f510055') in 0.006350 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/pillar_001.fbx
+  artifactKey: Guid(bdc8e053c63dedd40af65b5e9c91c6f8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/pillar_001.fbx using Guid(bdc8e053c63dedd40af65b5e9c91c6f8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e9e44bab7867771a52933fbfc51fe10a') in 0.006216 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Obstacles/obstacle_9_001.fbx
+  artifactKey: Guid(5d81b18aabd08d94dbb3b451dcbfd496) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Obstacles/obstacle_9_001.fbx using Guid(5d81b18aabd08d94dbb3b451dcbfd496) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '7e5b9e1918b947b2b1c638d87c087d05') in 0.007067 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Environment/ruins_002.fbx
+  artifactKey: Guid(95e7b8ae7571d464ea1e76c4602c6034) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Environment/ruins_002.fbx using Guid(95e7b8ae7571d464ea1e76c4602c6034) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '8eaa5a11d1a28d40577c027f7c2bf67a') in 0.006830 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Props/star_001.fbx
+  artifactKey: Guid(f5e447fc105ab6240aa4c37dbd916960) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Props/star_001.fbx using Guid(f5e447fc105ab6240aa4c37dbd916960) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '0cf50000da923c2d7a412b0d83c93400') in 0.007282 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/statue_podium_001.fbx
+  artifactKey: Guid(95a76a94fe7fe3943b3d2790e6d1124b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/statue_podium_001.fbx using Guid(95a76a94fe7fe3943b3d2790e6d1124b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e66b3a119fb8c47395d6f6149d597f1b') in 0.006045 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Platforms/circle_002.fbx
+  artifactKey: Guid(2291f078998c7994b97ab2ca8aeb6b2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Platforms/circle_002.fbx using Guid(2291f078998c7994b97ab2ca8aeb6b2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'dfd3b98902a5b7e37ba211d7bcfa8599') in 0.007998 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Environment/ruins_road_003.fbx
+  artifactKey: Guid(5a5bb7b42e96ba44aafe58b7ceb281ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Environment/ruins_road_003.fbx using Guid(5a5bb7b42e96ba44aafe58b7ceb281ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '01831cab890b597854952a34b2b605ca') in 0.006658 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Obstacles/obstacle_7_001.fbx
+  artifactKey: Guid(42547a0db9de86941998984063daa6f7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Obstacles/obstacle_7_001.fbx using Guid(42547a0db9de86941998984063daa6f7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'a92417f50b70bca7742ceb7fd70ee5ff') in 0.006359 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/chest_gold_002.fbx
+  artifactKey: Guid(6c48b7858653ca244a01d4736fb5d740) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/chest_gold_002.fbx using Guid(6c48b7858653ca244a01d4736fb5d740) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '05f1c24bf9791d6c30380364d0017bc3') in 0.006045 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Platformer_8_Underworld/Textures/Textures.png
+  artifactKey: Guid(693b4dd53c7a2ce41a4b79bc4cc07c85) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Textures/Textures.png using Guid(693b4dd53c7a2ce41a4b79bc4cc07c85) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '51850f51c3d88fb26898a60b25dc327f') in 0.026249 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_002.fbx
+  artifactKey: Guid(ade6b81ede7146943b1f93a8f7acc71b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_002.fbx using Guid(ade6b81ede7146943b1f93a8f7acc71b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '2510495da0740cd8de0c3287046d334b') in 0.006449 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Obstacles/obstacle_4_001.fbx
+  artifactKey: Guid(ceb3c9523aeccd849a1db6aa889d5437) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Obstacles/obstacle_4_001.fbx using Guid(ceb3c9523aeccd849a1db6aa889d5437) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'ca36514b0e77160b545e3f2add7fb598') in 0.006778 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Obstacles/obstacle_6_001.fbx
+  artifactKey: Guid(73a79dafb7bd6db4eb86dacef71df618) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Obstacles/obstacle_6_001.fbx using Guid(73a79dafb7bd6db4eb86dacef71df618) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '43cf473495f8de1542d5b9390a02d4d6') in 0.007231 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Props/coin_001.fbx
+  artifactKey: Guid(bd525402a998e9e46b30448f45640dd7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Props/coin_001.fbx using Guid(bd525402a998e9e46b30448f45640dd7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'dca80f3157a3c07e2ce2d40072af162b') in 0.006156 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Obstacles/obstacle_5_001.fbx
+  artifactKey: Guid(5e62b61bf2a4b304a89c72f00393520c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Obstacles/obstacle_5_001.fbx using Guid(5e62b61bf2a4b304a89c72f00393520c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '2fe8677da16943d5e8bcd168efafaced') in 0.006505 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/state_warlock_circle_001.fbx
+  artifactKey: Guid(a769bff16b7b1bf49afd07f3d26e1c2e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/state_warlock_circle_001.fbx using Guid(a769bff16b7b1bf49afd07f3d26e1c2e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '4b8bdf1986a8fdda162c7942e0c06d6f') in 0.007653 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_001.fbx
+  artifactKey: Guid(dc387cce4062ea641b95328ec733aa05) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/hieroglyph_001.fbx using Guid(dc387cce4062ea641b95328ec733aa05) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '9dedcc6b09b765d8782711b8a0786e16') in 0.006343 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Decoration/column_002.fbx
+  artifactKey: Guid(3d51fce4312b7ae4685eff520542f110) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Decoration/column_002.fbx using Guid(3d51fce4312b7ae4685eff520542f110) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '1eb032b578fbc5d0011658c1b2030ddc') in 0.007585 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Environment/pillar_010.fbx
+  artifactKey: Guid(268ea2ec74f454e4a810c2f938069add) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Environment/pillar_010.fbx using Guid(268ea2ec74f454e4a810c2f938069add) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '55b6872e40f588b62c8d2b45195dbd99') in 0.007008 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Props/chest_001.fbx
+  artifactKey: Guid(b73c12dc1b500364fb8e80acfad0cc79) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Props/chest_001.fbx using Guid(b73c12dc1b500364fb8e80acfad0cc79) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '46212ffa716c6cc6c586b9b8e5ca77ba') in 0.006256 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Props/crown_001.fbx
+  artifactKey: Guid(e1bc652fbdaa08f4baa0d4c8f3627851) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Props/crown_001.fbx using Guid(e1bc652fbdaa08f4baa0d4c8f3627851) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '2d153096193fcf45a97b918aee6d6ccb') in 0.007002 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Platforms/platform_001.fbx
+  artifactKey: Guid(cd44a88012b45f54bbcb4ae0481f2863) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Platforms/platform_001.fbx using Guid(cd44a88012b45f54bbcb4ae0481f2863) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '3beea6e8656ccd58729c836ac6ea58f5') in 0.006973 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Platformer_8_Underworld/Meshes/Props/dynamite_002.fbx
+  artifactKey: Guid(4ac96dedab0927d4ea820f95b7b9b191) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Meshes/Props/dynamite_002.fbx using Guid(4ac96dedab0927d4ea820f95b7b9b191) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '17272b6bb5d1cb0419882c74ea478d7a') in 0.007035 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.124891 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/arch_001.prefab
+  artifactKey: Guid(53db9dc8866610849bf003950ea6f63d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/arch_001.prefab using Guid(53db9dc8866610849bf003950ea6f63d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '4e2287c5502c9226f8866f9afc6724e7') in 0.009218 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_012.prefab
+  artifactKey: Guid(13b2efad5c65c254b9b0eff0461ebbc9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_012.prefab using Guid(13b2efad5c65c254b9b0eff0461ebbc9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'd4e31ca9b8c156a943d19ee10843696a') in 0.006286 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Obstacles/obstacle_9_001.prefab
+  artifactKey: Guid(67442be44efbd6d4393d76edabfc4cd0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Obstacles/obstacle_9_001.prefab using Guid(67442be44efbd6d4393d76edabfc4cd0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '5f3ae239920e6e80c122e3eae68d76fe') in 0.006436 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Obstacles/obstacle_2_001.prefab
+  artifactKey: Guid(c0a85057dfd8ad447b1f3f2e9811ee87) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Obstacles/obstacle_2_001.prefab using Guid(c0a85057dfd8ad447b1f3f2e9811ee87) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '14e4fed34abda02f5992d031b191ed0e') in 0.012803 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/circle_001.prefab
+  artifactKey: Guid(47b9daafacd970c459e861d12bc86400) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/circle_001.prefab using Guid(47b9daafacd970c459e861d12bc86400) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '49b346a6fac0a4e77617980ca19970f3') in 0.005164 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/stairs_001.prefab
+  artifactKey: Guid(b2c19b04e0dfc264fa9b622d1cc0096c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/stairs_001.prefab using Guid(b2c19b04e0dfc264fa9b622d1cc0096c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'f7c2c7c359638cf6e812d1cb24e683c0') in 0.004797 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Environment/ruins_002.prefab
+  artifactKey: Guid(f0a0ac0b71b26cc44a0397c7c6268620) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Environment/ruins_002.prefab using Guid(f0a0ac0b71b26cc44a0397c7c6268620) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '45953fc618e4d698ad6b6fcf72d6e7e7') in 0.007004 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Obstacles/obstacle_8_001.prefab
+  artifactKey: Guid(5ed143fae5f79f845b524f78da45f7ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Obstacles/obstacle_8_001.prefab using Guid(5ed143fae5f79f845b524f78da45f7ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'dc846ce5913279b9936677641e8bf0c5') in 0.006285 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Props/barrel_001.prefab
+  artifactKey: Guid(2e674a977eb39b44c8f0c3388def7a8b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Props/barrel_001.prefab using Guid(2e674a977eb39b44c8f0c3388def7a8b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '076a946101e609fee6a2586ca5289981') in 0.004011 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Props/crown_001.prefab
+  artifactKey: Guid(24359b3c7dd1f954190400757d7c901c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Props/crown_001.prefab using Guid(24359b3c7dd1f954190400757d7c901c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '06b06866fe1f53f2b174e4acb9b0397b') in 0.008721 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_016.prefab
+  artifactKey: Guid(2a009e33a22a37a4f81be01ad7adb8ba) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_016.prefab using Guid(2a009e33a22a37a4f81be01ad7adb8ba) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e62a896065c86ff7e8274b4edf2f83e1') in 0.005625 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/stairs_002.prefab
+  artifactKey: Guid(3b464d27c6b1ec0468a00044666bd206) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/stairs_002.prefab using Guid(3b464d27c6b1ec0468a00044666bd206) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '5f522198406b0c2779b561fd6d6c4de6') in 0.003987 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Props/key_001.prefab
+  artifactKey: Guid(5cd1f014fc89e8148a9c0ecd63f91a76) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Props/key_001.prefab using Guid(5cd1f014fc89e8148a9c0ecd63f91a76) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '1ff87d4e7ff125f3c0d60e1b71c700bb') in 0.007505 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_003.prefab
+  artifactKey: Guid(d1dbba4b0a4b11e4dbc5b96f68fdfdc6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_003.prefab using Guid(d1dbba4b0a4b11e4dbc5b96f68fdfdc6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '97579d433495b5f780b85af3bf5efabb') in 0.004718 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_018.prefab
+  artifactKey: Guid(a38eca202584d90448a09b8ceb9c5161) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_018.prefab using Guid(a38eca202584d90448a09b8ceb9c5161) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'd7f4df84b44d202c36465d60f19adaad') in 0.004697 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/wall_002.prefab
+  artifactKey: Guid(05b1978c5c7cfe24781c3230e40f61b0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/wall_002.prefab using Guid(05b1978c5c7cfe24781c3230e40f61b0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'a173fce941d85af07e64e3fa9e0ad839') in 0.004262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/chest_lid_001.prefab
+  artifactKey: Guid(30cd47ad138d4d942bb52bc451ae56c8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/chest_lid_001.prefab using Guid(30cd47ad138d4d942bb52bc451ae56c8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'bae2b1ad19cf50cd14ff51563865c0d8') in 0.003748 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_013.prefab
+  artifactKey: Guid(425077e9a7b689947930bff8afd19f02) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_013.prefab using Guid(425077e9a7b689947930bff8afd19f02) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '970312256b39c6e4cc573e3fec16e97a') in 0.004617 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Obstacles/obstacle_6_001.prefab
+  artifactKey: Guid(9a8d662c2c40eea4b81c952df1bf1278) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Obstacles/obstacle_6_001.prefab using Guid(9a8d662c2c40eea4b81c952df1bf1278) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '247f98e1310a0465064884e8d59e8880') in 0.005521 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_009.prefab
+  artifactKey: Guid(d648f4d9b2280bd4ba53e8e9edc86a9a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_009.prefab using Guid(d648f4d9b2280bd4ba53e8e9edc86a9a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '2c6878e74974691fa005b086432184a0') in 0.004784 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_002.prefab
+  artifactKey: Guid(29e4f884a23b235468ad787e2cdcd039) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_002.prefab using Guid(29e4f884a23b235468ad787e2cdcd039) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '22b7afe5bdddc2b40b55f54e54a74e48') in 0.005661 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/hook_001.prefab
+  artifactKey: Guid(7f9b8ab5d91dee6478fde1834b249889) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/hook_001.prefab using Guid(7f9b8ab5d91dee6478fde1834b249889) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '85c9412b607a5b70c588fe38e16f4e60') in 0.005437 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Obstacles/obstacle_7_001.prefab
+  artifactKey: Guid(40a2b476489aac344abf3de7b677c4a7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Obstacles/obstacle_7_001.prefab using Guid(40a2b476489aac344abf3de7b677c4a7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '3b2eff6d0b705d55b741264864ceb98d') in 0.005394 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_006.prefab
+  artifactKey: Guid(f9e17d67a07ccd44b952bace6c6e764b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_006.prefab using Guid(f9e17d67a07ccd44b952bace6c6e764b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '9b2abe7042f582240076024a3b55aa8c') in 0.004819 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/pillar_014.prefab
+  artifactKey: Guid(15e6fc42b49807344839ac16f5e18e1b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/pillar_014.prefab using Guid(15e6fc42b49807344839ac16f5e18e1b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '296b49b9b665c4af73a38be49ae9dbff') in 0.005016 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Props/coin_001.prefab
+  artifactKey: Guid(4b0b4015f67163b4e953586e86e60117) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Props/coin_001.prefab using Guid(4b0b4015f67163b4e953586e86e60117) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '325d82431c96fa6ea0ea82f1b61ed565') in 0.006655 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/chest_gold_002.prefab
+  artifactKey: Guid(59227e50a6e8df440abbfacfbd02e92e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/chest_gold_002.prefab using Guid(59227e50a6e8df440abbfacfbd02e92e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '4b0d030b35f9dd29aa6990a91121a06b') in 0.004624 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_014.prefab
+  artifactKey: Guid(8c555c0473579dc4db7a75c7f42f6e05) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_014.prefab using Guid(8c555c0473579dc4db7a75c7f42f6e05) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '5bdc9d39d317fe895c0546d126e32017') in 0.004574 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/pillar_006.prefab
+  artifactKey: Guid(9e0728782607b824b9415f1d118e4d51) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/pillar_006.prefab using Guid(9e0728782607b824b9415f1d118e4d51) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'c8d6dc426649ae777db31e6fff3b3945') in 0.004791 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Environment/pillar_010.prefab
+  artifactKey: Guid(e43ca1b5ebbd8d248a230ca234f1d711) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Environment/pillar_010.prefab using Guid(e43ca1b5ebbd8d248a230ca234f1d711) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'a49410a45cc5361b2fec6f44f1f6b8d4') in 0.006813 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Props/chest_002.prefab
+  artifactKey: Guid(64da59797a908fa47af6cbe4484ebe21) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Props/chest_002.prefab using Guid(64da59797a908fa47af6cbe4484ebe21) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '42d6e7cf4e30e151876a983ddccda784') in 0.005764 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/chest_gold_001.prefab
+  artifactKey: Guid(dc2f8e8baf2ae64479fc6d08f354004e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/chest_gold_001.prefab using Guid(dc2f8e8baf2ae64479fc6d08f354004e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '4b07763cd0911695ea1f9c736a6955a6') in 0.004687 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Environment/pillar_cap_001.prefab
+  artifactKey: Guid(2f9314bf6ff957e4dbf9ddcbfe29ae38) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Environment/pillar_cap_001.prefab using Guid(2f9314bf6ff957e4dbf9ddcbfe29ae38) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'fc943209180873b04dc344daeff75b0b') in 0.004473 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Props/barrel_002.prefab
+  artifactKey: Guid(adea9566e81584f4bbbaf80ce47315d1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Props/barrel_002.prefab using Guid(adea9566e81584f4bbbaf80ce47315d1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '9f634aba82303152b171cbdf9afc4c2b') in 0.004609 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Platforms/platform_004.prefab
+  artifactKey: Guid(c52affaec1582b64eb23664d18568220) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Platforms/platform_004.prefab using Guid(c52affaec1582b64eb23664d18568220) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e5665b66582c29db8b48a67ef478d196') in 0.004102 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Obstacles/obstacle_3_001.prefab
+  artifactKey: Guid(70c3eaf3de21b0b488cf7d7cf903a178) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Obstacles/obstacle_3_001.prefab using Guid(70c3eaf3de21b0b488cf7d7cf903a178) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '6f531a170d85abcef1c31c9c5cac88fb') in 0.004971 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Props/chest_001.prefab
+  artifactKey: Guid(e125c1791d15a9c43a472e9c761b9422) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Props/chest_001.prefab using Guid(e125c1791d15a9c43a472e9c761b9422) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'fb8e2a71fbe8699a420c1e13b7faa34d') in 0.005266 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/fire_002.prefab
+  artifactKey: Guid(0fe08a321f582064c9cc15e3be65d0df) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/fire_002.prefab using Guid(0fe08a321f582064c9cc15e3be65d0df) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e6279f7213217ab4bb37565c8f36751b') in 0.004874 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_007.prefab
+  artifactKey: Guid(c4aabe45282453646bd87fc4b494b46d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_007.prefab using Guid(c4aabe45282453646bd87fc4b494b46d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e608c9c4329fd29109a2039f4a8a8c5e') in 0.004287 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Environment/pillar_009.prefab
+  artifactKey: Guid(933578a9c973b224cbee70b45175b913) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Environment/pillar_009.prefab using Guid(933578a9c973b224cbee70b45175b913) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '38140fe8b6b5566fbb06d0f42d63ee64') in 0.005699 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/fence_002.prefab
+  artifactKey: Guid(950d0b301568b1d48bfdf919ff963d80) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/fence_002.prefab using Guid(950d0b301568b1d48bfdf919ff963d80) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '9f083829f0d1ff58659c772f5e8a3a17') in 0.003860 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_005.prefab
+  artifactKey: Guid(c75028aebec32964ab9203137a2a971c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/hieroglyph_005.prefab using Guid(c75028aebec32964ab9203137a2a971c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '93993c0eb03afacae6783bb0ec5c78b1') in 0.004451 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/gate_001.prefab
+  artifactKey: Guid(6103d97e5da75304588085d7e58c20cd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/gate_001.prefab using Guid(6103d97e5da75304588085d7e58c20cd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '05a30180abbb66c737d7f9845d176b4d') in 0.005188 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/statue_warlock_001.prefab
+  artifactKey: Guid(4355a1fe69c576d488f022e8d63ac147) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/statue_warlock_001.prefab using Guid(4355a1fe69c576d488f022e8d63ac147) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '0f542725559437e8346acffabd4a101c') in 0.006539 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/fence_001.prefab
+  artifactKey: Guid(310a44ffdb0b34947b3f25019a16825e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/fence_001.prefab using Guid(310a44ffdb0b34947b3f25019a16825e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'f0d8009df9c2d4fb2c40b977b3548a53') in 0.004517 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Obstacles/obstacle_10_001.prefab
+  artifactKey: Guid(4c9ddfb46e116b34b88a520f1075260d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Obstacles/obstacle_10_001.prefab using Guid(4c9ddfb46e116b34b88a520f1075260d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '22d1249c6fe57beb6356498201de15ee') in 0.004357 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Obstacles/obstacle_5_002.prefab
+  artifactKey: Guid(9e5cb8de6ed8fef42aab4ec2dcb595b5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Obstacles/obstacle_5_002.prefab using Guid(9e5cb8de6ed8fef42aab4ec2dcb595b5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'b89de1c66ca68462c0514efb87f6cb5e') in 0.004478 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Environment/pillar_007.prefab
+  artifactKey: Guid(c20952d2ecdcea6488f3fe5d3f8f0a06) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Environment/pillar_007.prefab using Guid(c20952d2ecdcea6488f3fe5d3f8f0a06) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'c48407067d114251e2b96394fd666599') in 0.004289 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Props/bomb_001.prefab
+  artifactKey: Guid(60ec50e1703538744a53f5a8197ed96f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Props/bomb_001.prefab using Guid(60ec50e1703538744a53f5a8197ed96f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '17339f4af908fbb0c644d9f92a24b652') in 0.006417 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Props/diamond_001.prefab
+  artifactKey: Guid(3a2c925eefeb09a438f0f38381066afa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Props/diamond_001.prefab using Guid(3a2c925eefeb09a438f0f38381066afa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '38b20aa72402918c614505a7e7a6518c') in 0.007421 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Decoration/pillar_012.prefab
+  artifactKey: Guid(82107bdd3db7815449fb147cece73062) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Decoration/pillar_012.prefab using Guid(82107bdd3db7815449fb147cece73062) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'c08d1ea010fefb0fac0feb3df31ccf28') in 0.004303 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.209128 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Props/key_002.prefab
+  artifactKey: Guid(dc07bb401791627438119cf0ed6d3a69) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Props/key_002.prefab using Guid(dc07bb401791627438119cf0ed6d3a69) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '962607f9b54d6929b901ead2ebafff1b') in 0.009786 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Platformer_8_Underworld/Scenes/Demonstration_Profiles/Main Camera Profile.asset
+  artifactKey: Guid(838e3dfff8b16f749bf51d7b6ee11f6b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Scenes/Demonstration_Profiles/Main Camera Profile.asset using Guid(838e3dfff8b16f749bf51d7b6ee11f6b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e605300c72713fd103d0d09ad95dbd9b') in 0.001287 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Platformer_8_Underworld/Skyboxes/Skybox_Textures/Materials/Skybox_2.mat
+  artifactKey: Guid(a7358378131524dd48feab13fc53acea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Skyboxes/Skybox_Textures/Materials/Skybox_2.mat using Guid(a7358378131524dd48feab13fc53acea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '8d9575042863d2da8f6625d3dfe4edb6') in 0.009450 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Platformer_8_Underworld/Shaders/Shader_Textures/Pattern_3_gradient.png
+  artifactKey: Guid(61485daec2e95df46849f937374f5592) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Shaders/Shader_Textures/Pattern_3_gradient.png using Guid(61485daec2e95df46849f937374f5592) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '987d9ac7fc64719083db4b3fb954710d') in 0.008079 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Props/vase_002.prefab
+  artifactKey: Guid(0201083186561654dad68ce35baf596a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Props/vase_002.prefab using Guid(0201083186561654dad68ce35baf596a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e1e79bd03c4c31676e08b964959a6fb0') in 0.005775 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Platformer_8_Underworld/Shaders/URP_Shaders/SimpleWater_URP.shader
+  artifactKey: Guid(1fafe1fd001c07242abe2538b57056ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Shaders/URP_Shaders/SimpleWater_URP.shader using Guid(1fafe1fd001c07242abe2538b57056ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+ -> (artifact id: '11c7024549cf68221b7b77cc8c3fb325') in 0.007093 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Platformer_8_Underworld/Shaders/BuiltIn_Shaders/Glow.shader
+  artifactKey: Guid(caa9933d12f70be4c96707437f318f02) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Shaders/BuiltIn_Shaders/Glow.shader using Guid(caa9933d12f70be4c96707437f318f02) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '8137d0e73c189bcabaf1dd08466a6895') in 0.002455 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Platformer_8_Underworld/Prefabs/Props/vase_001.prefab
+  artifactKey: Guid(c7d51be32b340864d8cc95be259b7e1d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Prefabs/Props/vase_001.prefab using Guid(c7d51be32b340864d8cc95be259b7e1d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'a5b20b024ccf534186c10b6822f25d3b') in 0.004134 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Platformer_8_Underworld/Shaders/URP_Shaders/WaterURP.shader
+  artifactKey: Guid(56f25e3c1220c5d468068da80dc3ba31) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Shaders/URP_Shaders/WaterURP.shader using Guid(56f25e3c1220c5d468068da80dc3ba31) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+ -> (artifact id: '2df864dd89dfe99dec44cbd124bab02a') in 0.002826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Platformer_8_Underworld/Shaders/Shader_Textures/Pattern_2_gradient.png
+  artifactKey: Guid(0f86a34c0d5ec9a469c298f7859edac8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Shaders/Shader_Textures/Pattern_2_gradient.png using Guid(0f86a34c0d5ec9a469c298f7859edac8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'b3a6f627b11fef90ea9aaa207d601a98') in 0.008229 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Platformer_8_Underworld/Shaders/Shader_Textures/Pattern_2.png
+  artifactKey: Guid(09ad31095e57a0e47b3f4df2752fa769) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Shaders/Shader_Textures/Pattern_2.png using Guid(09ad31095e57a0e47b3f4df2752fa769) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'ae85a114e3912e8b22c358d21e2354a7') in 0.008018 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Platformer_8_Underworld/Shaders/Shader_Textures/Pattern_1.png
+  artifactKey: Guid(223827e446754404eb8f85d3317925e9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Shaders/Shader_Textures/Pattern_1.png using Guid(223827e446754404eb8f85d3317925e9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'aa601629c526d2be4a630aa0f6ee2a55') in 0.008295 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/WizardPolyArt/Textures/ForPBRMaskTintShader/PolyArtAlbedo.png
+  artifactKey: Guid(4960428282afaef44ab798134d3c2db0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WizardPolyArt/Textures/ForPBRMaskTintShader/PolyArtAlbedo.png using Guid(4960428282afaef44ab798134d3c2db0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'a7de110d879a9effd00335c38cc59851') in 0.005656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Platformer_8_Underworld/Shaders/BuiltIn_Shaders/Main.shader
+  artifactKey: Guid(ce2be12d7c72b514fab72bab4cf5f73e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Shaders/BuiltIn_Shaders/Main.shader using Guid(ce2be12d7c72b514fab72bab4cf5f73e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '54bca18bddb752b712796b5080de9881') in 0.002564 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Platformer_8_Underworld/Shaders/BuiltIn_Shaders/Water.shader
+  artifactKey: Guid(65acc524ed632c5499dce26d2b00b8cc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Shaders/BuiltIn_Shaders/Water.shader using Guid(65acc524ed632c5499dce26d2b00b8cc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '8cd3b490aaf0ac7f32e0858f975b5641') in 0.002681 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Platformer_8_Underworld/Shaders/BuiltIn_Shaders/SimpleWater.shader
+  artifactKey: Guid(c5f4e3b073e3e874b99a6067c17844a5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Platformer_8_Underworld/Shaders/BuiltIn_Shaders/SimpleWater.shader using Guid(c5f4e3b073e3e874b99a6067c17844a5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'ede3d8c7e0c50b81000b931433e83db0') in 0.003742 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.375 seconds
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.670 seconds
+Domain Reload Profiling: 1046ms
+	BeginReloadAssembly (88ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (243ms)
+		LoadAssemblies (243ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (31ms)
+			TypeCache.Refresh (21ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (6ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (671ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (250ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (30ms)
+			ProcessInitializeOnLoadAttributes (191ms)
+			ProcessInitializeOnLoadMethodAttributes (10ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3683.
+Memory consumption went from 268.3 MB to 266.7 MB.
+Total: 2.674958 ms (FindLiveObjects: 0.127875 ms CreateObjectMapping: 0.046292 ms MarkObjects: 2.126500 ms  DeleteObjects: 0.373791 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.263 seconds
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.410 seconds
+Domain Reload Profiling: 673ms
+	BeginReloadAssembly (80ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (141ms)
+		LoadAssemblies (160ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (411ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (248ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (30ms)
+			ProcessInitializeOnLoadAttributes (191ms)
+			ProcessInitializeOnLoadMethodAttributes (10ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3686.
+Memory consumption went from 273.9 MB to 272.3 MB.
+Total: 2.729583 ms (FindLiveObjects: 0.143958 ms CreateObjectMapping: 0.077042 ms MarkObjects: 2.111750 ms  DeleteObjects: 0.396375 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.253 seconds
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.707 seconds
+Domain Reload Profiling: 959ms
+	BeginReloadAssembly (83ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (128ms)
+		LoadAssemblies (147ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (707ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (294ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (35ms)
+			ProcessInitializeOnLoadAttributes (226ms)
+			ProcessInitializeOnLoadMethodAttributes (12ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3689.
+Memory consumption went from 279.5 MB to 277.9 MB.
+Total: 3.720709 ms (FindLiveObjects: 0.131917 ms CreateObjectMapping: 0.066416 ms MarkObjects: 2.851167 ms  DeleteObjects: 0.670792 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.244 seconds
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.702 seconds
+Domain Reload Profiling: 947ms
+	BeginReloadAssembly (84ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (119ms)
+		LoadAssemblies (141ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (702ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (248ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (30ms)
+			ProcessInitializeOnLoadAttributes (191ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3692.
+Memory consumption went from 285.2 MB to 283.6 MB.
+Total: 3.416667 ms (FindLiveObjects: 0.153292 ms CreateObjectMapping: 0.109625 ms MarkObjects: 2.669458 ms  DeleteObjects: 0.483625 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.254 seconds
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.680 seconds
+Domain Reload Profiling: 934ms
+	BeginReloadAssembly (81ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (131ms)
+		LoadAssemblies (151ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (681ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (285ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (33ms)
+			ProcessInitializeOnLoadAttributes (224ms)
+			ProcessInitializeOnLoadMethodAttributes (12ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3695.
+Memory consumption went from 290.8 MB to 289.2 MB.
+Total: 3.310542 ms (FindLiveObjects: 0.115709 ms CreateObjectMapping: 0.058958 ms MarkObjects: 2.467208 ms  DeleteObjects: 0.668250 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.243 seconds
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.721 seconds
+Domain Reload Profiling: 964ms
+	BeginReloadAssembly (81ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (121ms)
+		LoadAssemblies (141ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (721ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (303ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (40ms)
+			ProcessInitializeOnLoadAttributes (232ms)
+			ProcessInitializeOnLoadMethodAttributes (12ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3698.
+Memory consumption went from 296.4 MB to 294.8 MB.
+Total: 3.417625 ms (FindLiveObjects: 0.133583 ms CreateObjectMapping: 0.065292 ms MarkObjects: 2.390417 ms  DeleteObjects: 0.827958 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.265 seconds
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.711 seconds
+Domain Reload Profiling: 976ms
+	BeginReloadAssembly (86ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (137ms)
+		LoadAssemblies (157ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (13ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (711ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (289ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (33ms)
+			ProcessInitializeOnLoadAttributes (222ms)
+			ProcessInitializeOnLoadMethodAttributes (12ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3701.
+Memory consumption went from 302.0 MB to 300.4 MB.
+Total: 2.765000 ms (FindLiveObjects: 0.126084 ms CreateObjectMapping: 0.058542 ms MarkObjects: 2.189667 ms  DeleteObjects: 0.390167 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.249 seconds
+Refreshing native plugins compatible for Editor in 1.13 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.716 seconds
+Domain Reload Profiling: 965ms
+	BeginReloadAssembly (83ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (124ms)
+		LoadAssemblies (143ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (12ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (717ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (288ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (35ms)
+			ProcessInitializeOnLoadAttributes (223ms)
+			ProcessInitializeOnLoadMethodAttributes (11ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3704.
+Memory consumption went from 307.6 MB to 306.0 MB.
+Total: 3.215125 ms (FindLiveObjects: 0.122375 ms CreateObjectMapping: 0.053209 ms MarkObjects: 2.166625 ms  DeleteObjects: 0.872125 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.268 seconds
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.770 seconds
+Domain Reload Profiling: 1039ms
+	BeginReloadAssembly (93ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (129ms)
+		LoadAssemblies (148ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (13ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (771ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (329ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (40ms)
+			ProcessInitializeOnLoadAttributes (252ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3707.
+Memory consumption went from 313.2 MB to 311.6 MB.
+Total: 2.710917 ms (FindLiveObjects: 0.157583 ms CreateObjectMapping: 0.062542 ms MarkObjects: 2.107000 ms  DeleteObjects: 0.383333 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172ed3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.272 seconds
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.795 seconds
+Domain Reload Profiling: 1067ms
+	BeginReloadAssembly (94ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (14ms)
+	LoadAllAssembliesAndSetupDomain (134ms)
+		LoadAssemblies (150ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (18ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (795ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (336ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (39ms)
+			ProcessInitializeOnLoadAttributes (260ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3710.
+Memory consumption went from 318.8 MB to 317.2 MB.
+Total: 4.256458 ms (FindLiveObjects: 0.353958 ms CreateObjectMapping: 0.158125 ms MarkObjects: 2.898209 ms  DeleteObjects: 0.845583 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x1701b3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.292 seconds
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.720 seconds
+Domain Reload Profiling: 1012ms
+	BeginReloadAssembly (90ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (158ms)
+		LoadAssemblies (178ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (720ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (285ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (34ms)
+			ProcessInitializeOnLoadAttributes (218ms)
+			ProcessInitializeOnLoadMethodAttributes (11ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3713.
+Memory consumption went from 324.4 MB to 322.8 MB.
+Total: 3.123791 ms (FindLiveObjects: 0.146875 ms CreateObjectMapping: 0.077625 ms MarkObjects: 2.428917 ms  DeleteObjects: 0.469875 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.276 seconds
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.769 seconds
+Domain Reload Profiling: 1046ms
+	BeginReloadAssembly (89ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (143ms)
+		LoadAssemblies (163ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (769ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (328ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (40ms)
+			ProcessInitializeOnLoadAttributes (255ms)
+			ProcessInitializeOnLoadMethodAttributes (13ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3716.
+Memory consumption went from 330.0 MB to 328.4 MB.
+Total: 2.927833 ms (FindLiveObjects: 0.133917 ms CreateObjectMapping: 0.067000 ms MarkObjects: 2.304792 ms  DeleteObjects: 0.421666 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.225 seconds
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.752 seconds
+Domain Reload Profiling: 977ms
+	BeginReloadAssembly (87ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (95ms)
+		LoadAssemblies (118ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (752ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (332ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (39ms)
+			ProcessInitializeOnLoadAttributes (254ms)
+			ProcessInitializeOnLoadMethodAttributes (13ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3719.
+Memory consumption went from 335.6 MB to 334.0 MB.
+Total: 3.026708 ms (FindLiveObjects: 0.126541 ms CreateObjectMapping: 0.073875 ms MarkObjects: 2.373042 ms  DeleteObjects: 0.452833 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.277 seconds
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.801 seconds
+Domain Reload Profiling: 1079ms
+	BeginReloadAssembly (96ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (14ms)
+	LoadAllAssembliesAndSetupDomain (135ms)
+		LoadAssemblies (158ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (12ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (802ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (345ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (22ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (40ms)
+			ProcessInitializeOnLoadAttributes (265ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3722.
+Memory consumption went from 341.2 MB to 339.6 MB.
+Total: 3.202291 ms (FindLiveObjects: 0.150333 ms CreateObjectMapping: 0.119042 ms MarkObjects: 2.453833 ms  DeleteObjects: 0.478500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.240 seconds
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.540 seconds
+Domain Reload Profiling: 780ms
+	BeginReloadAssembly (93ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (103ms)
+		LoadAssemblies (126ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (9ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (540ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (323ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (35ms)
+			ProcessInitializeOnLoadAttributes (248ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3725.
+Memory consumption went from 346.8 MB to 345.2 MB.
+Total: 3.259791 ms (FindLiveObjects: 0.264917 ms CreateObjectMapping: 0.150833 ms MarkObjects: 2.471292 ms  DeleteObjects: 0.372291 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.297 seconds
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.873 seconds
+Domain Reload Profiling: 1171ms
+	BeginReloadAssembly (105ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (43ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (15ms)
+	LoadAllAssembliesAndSetupDomain (144ms)
+		LoadAssemblies (166ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (13ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (873ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (375ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (42ms)
+			ProcessInitializeOnLoadAttributes (293ms)
+			ProcessInitializeOnLoadMethodAttributes (15ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3728.
+Memory consumption went from 352.4 MB to 350.7 MB.
+Total: 3.116334 ms (FindLiveObjects: 0.158042 ms CreateObjectMapping: 0.073333 ms MarkObjects: 2.486583 ms  DeleteObjects: 0.397750 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.323 seconds
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.937 seconds
+Domain Reload Profiling: 1260ms
+	BeginReloadAssembly (112ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (45ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (17ms)
+	LoadAllAssembliesAndSetupDomain (158ms)
+		LoadAssemblies (182ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (16ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (937ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (432ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (47ms)
+			ProcessInitializeOnLoadAttributes (334ms)
+			ProcessInitializeOnLoadMethodAttributes (19ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3731.
+Memory consumption went from 358.0 MB to 356.3 MB.
+Total: 3.488125 ms (FindLiveObjects: 0.154333 ms CreateObjectMapping: 0.067458 ms MarkObjects: 2.840042 ms  DeleteObjects: 0.425875 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.390 seconds
+Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.138 seconds
+Domain Reload Profiling: 1528ms
+	BeginReloadAssembly (133ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (188ms)
+		LoadAssemblies (218ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (19ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1139ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (520ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (28ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (63ms)
+			ProcessInitializeOnLoadAttributes (404ms)
+			ProcessInitializeOnLoadMethodAttributes (20ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3734.
+Memory consumption went from 363.7 MB to 362.0 MB.
+Total: 4.407208 ms (FindLiveObjects: 0.168250 ms CreateObjectMapping: 0.072917 ms MarkObjects: 3.251333 ms  DeleteObjects: 0.913959 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x172493000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.457 seconds
+Refreshing native plugins compatible for Editor in 1.50 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.102 seconds
+Domain Reload Profiling: 1560ms
+	BeginReloadAssembly (162ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (71ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (212ms)
+		LoadAssemblies (240ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (30ms)
+			TypeCache.Refresh (14ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (9ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (1103ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (477ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (56ms)
+			ProcessInitializeOnLoadAttributes (371ms)
+			ProcessInitializeOnLoadMethodAttributes (19ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glow': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'SimpleWater': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Glass': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 3737.
+Memory consumption went from 369.3 MB to 367.6 MB.
+Total: 4.080375 ms (FindLiveObjects: 0.196958 ms CreateObjectMapping: 0.114834 ms MarkObjects: 3.219709 ms  DeleteObjects: 0.547958 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
