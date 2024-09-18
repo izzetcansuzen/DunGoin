@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 
 public class MoveCharacter : MonoBehaviour
@@ -13,10 +14,12 @@ public class MoveCharacter : MonoBehaviour
 
     void Update()
     {
-        //Kullanıcının yürüme tuşuna basma miktarını alır
+        //Oyuncu yürüme tuşlarına basınca girilen değeri al
         float verticalSpeed = Input.GetAxis("Vertical");
-        
-        //Kullanıcıya tıklama miktarına göre ileri gitmesini sağlar
+        float horizontalSpeed = Input.GetAxis("Horizontal");
+
+        //Oyuncu tıklamasına göre karakteri yönlendir
         transform.Translate(Vector3.forward * verticalSpeed * characterSpeed * Time.deltaTime);
+        transform.Translate(Vector3.right * horizontalSpeed * characterSpeed * Time.deltaTime);
     }
 }
