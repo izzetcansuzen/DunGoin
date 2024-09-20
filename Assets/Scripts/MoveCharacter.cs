@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MoveCharacter : MonoBehaviour
 {
@@ -42,5 +43,10 @@ public class MoveCharacter : MonoBehaviour
 
         // Animasyon hızını karakterin hareket hızına göre ayarla
         animator.speed = movementSpeed > 0 ? movementSpeed : 1f;  // Hareket varsa hız, yoksa normal hızda oynat
+
+        //Karakter yere düşerse oyun başa sarsın
+        if(gameObject.transform.position.y <= -1){
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
     }
 }
