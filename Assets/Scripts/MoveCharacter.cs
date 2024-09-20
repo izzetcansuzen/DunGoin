@@ -8,7 +8,7 @@ public class MoveCharacter : MonoBehaviour
 {
     Animator animator;
     private float characterSpeed = 5f;
-    private float characterJumpSpeed = 8f;
+    private float characterJumpSpeed = 5f;
 
     void Start()
     {
